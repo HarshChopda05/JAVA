@@ -191,6 +191,6 @@ Keep learning. Keep building. Keep improving.
 ## 👨‍💻 Author
 
 Harsh Chopda  
-BCA Student | Backend Enthusiast | Java Developer
+Java Developer | Backend Enthusiast
 
 
